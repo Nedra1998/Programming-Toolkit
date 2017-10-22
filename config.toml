@@ -1,0 +1,20 @@
+baseurl = "http://ProgrammingToolkit.com/"
+languageCode = "en-us"
+title = "Programming Toolkit"
+theme = "blackburn"
+paginate = 10
+
+googleAnalytics = ""
+
+[params]
+  description = "A Blog by a Software Developer"
+  author = "Arden Rasmussen"
+  highlightjs="dracula"
+  highlightjs_extra_languages = ["vim"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  github = "LuxAtrumStudio"
