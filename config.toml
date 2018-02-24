@@ -12,6 +12,30 @@ googleAnalytics = ""
   highlightjs="dracula"
   highlightjs_extra_languages = ["vim"]
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    url = "/tags/"
+  [[menu.main]]
+    name = "Categories"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    url = "/categories/"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

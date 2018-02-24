@@ -12,12 +12,7 @@ categories = [
 ]
 +++
 
-# The Basics #
+# Usage #
 
-## The Leader Key ##
-
-The leader key is a main key in Vim usage. 
-```vim
-<leader> :call Add<CR>
-```
-
+This section will go into depth on the basic usage of Vim. And how to use the
+basic Vim interfaces, and key mapings.

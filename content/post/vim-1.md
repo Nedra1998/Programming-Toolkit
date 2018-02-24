@@ -86,4 +86,4 @@ the binaries.
 Now that you have Vim installed. Its time to learn how to use it. But that will
 be for the next part of this series.
 
-[VIM Part 2](vim-2.md)
+[VIM Part 2](../vim-2)
